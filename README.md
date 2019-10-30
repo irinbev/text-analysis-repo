@@ -1,2 +1,2 @@
 # text-analysis-repo
-choose and analyse the given texts
+chooses and analyses the given texts
